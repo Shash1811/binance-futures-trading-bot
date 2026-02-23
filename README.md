@@ -134,7 +134,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.002 --price
 
 ---
 
-### ▶ STOP-LIMIT Order (BONUS)
+### ▶ STOP-LIMIT Order
 
 ```bash
 python cli.py --symbol BTCUSDT --side SELL --type STOP --quantity 0.002 --price 62000 --stop-price 62500
